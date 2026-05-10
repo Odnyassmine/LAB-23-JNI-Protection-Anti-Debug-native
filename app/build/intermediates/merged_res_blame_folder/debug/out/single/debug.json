@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\setup game\\.gradle\\daemon\\8.5\\com.example.jnidemo.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\setup game\\.gradle\\daemon\\8.5\\com.example.jnidemo.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.jnidemo.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.jnidemo.app-main-33:/layout/activity_main.xml"
+    }
+]
